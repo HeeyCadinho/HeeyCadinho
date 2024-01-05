@@ -6,7 +6,7 @@ My name is Igor, I'm 15 years old and I've been a developer for over 2 years, I 
 > 💼 Founder of @WhazeNetwork
 
 ### 📋 Programming Languages:
-   ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
+   ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg)
 
 ### SQL and DATABASES
 
