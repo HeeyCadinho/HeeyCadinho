@@ -8,7 +8,11 @@ My name is Igor, I'm 15 years old and I've been a developer for over 2 years, I 
 ### 📋 Programming Languages:
    ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
 
-### 📄 IDEs/Editors:
+### SQL and DATABASES
+
+  ![MariaDB](https://mariadb.com/about-us/logos/)
+
+### 📄 Pro:
 
   ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
   ![Visual Studios Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
