@@ -6,12 +6,12 @@ My name is Igor, I'm 15 years old and I've been a developer for over 2 years, I 
 > 💼 Founder of @WhazeNetwork
 
 ### 📋 Programming Languages:
-   ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg)
+   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### SQL and DATABASES
 
-  ![MariaDB](https://mariadb.com/about-us/logos/)
-
+  ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+  ![MariaDB](https://img.shields.io/badge/MariaDB-lightgrey?labelColor=003545&logo=MariaDB&style=for-the-badge&logoColor=white)](https://mariadb.org/)
 ### 📄 Pro:
 
   ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
