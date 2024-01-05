@@ -1,41 +1,44 @@
-# Projeto GitHub
+### Welcome to my GitHub 🌐
 
-Este repositório contém vários projetos em diferentes linguagens de programação. Abaixo estão as estatísticas detalhadas de cada projeto.
+My name is Igor, I'm 15 years old and I've been a developer for over 2 years, I hope you like it!
 
-## Projetos
+> 🔭 I'm a full stack developer! <br/>
+> 💼 Founder of @WhazeNetwork
 
-### Projeto Java
+### 📋 Programming Languages:
+   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+   ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+   
+ ### 🎆 Frameworks, Platforms, ORMs and Libraries:
+   ![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+   ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+   ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+   ![AdonisJS](https://img.shields.io/badge/adonisjs-000000?style=for-the-badge&logo=adonisjs&logoColor=white)
+   ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
-- Tipo: Java
-- Porcentagem: XX%
+### 📄 IDEs/Editors:
 
-Este projeto é desenvolvido em Java e contribui com XX% para o repositório.
+  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+  ![PHP Storm](http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white)
+  ![Visual Studios Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+  ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 
-### Projeto JavaScript
+### 🚀 Version Control, Hostings, Servers
 
-- Tipo: JavaScript
-- Porcentagem: XX%
-
-Este projeto é desenvolvido em JavaScript e contribui com XX% para o repositório.
-
-### Projeto PHP
-
-- Tipo: PHP
-- Porcentagem: XX%
-
-Este projeto é desenvolvido em PHP e contribui com XX% para o repositório.
-
-### Projeto TSX
-
-- Tipo: TypeScript (TSX)
-- Porcentagem: XX%
-
-Este projeto é desenvolvido em TypeScript (com arquivos TSX) e contribui com XX% para o repositório.
-
-## Contribuição
-
-Sinta-se à vontade para contribuir com correções, melhorias ou novos recursos. Basta abrir uma issue ou enviar um pull request!
-
-## Licença
-
-Este projeto é licenciado sob a [Sua Licença Aqui].
+  ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+  ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+  ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+  ![Nginx](https://img.shields.io/badge/Nginx-43853D?style=for-the-badge&logo=nginx&logoColor=white)
+  ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+  ![GCloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+  ![DigitalOcean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white)
+  ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+<br/>
+<details>
+  <summary>💬 Contacts</summary>
+   </br> <img align="left" alt="Discord" target="blank" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg"
+   <string>Cadinho</string>
+</details> 
