@@ -12,6 +12,7 @@ My name is Igor, I'm 15 years old and I've been a developer for over 2 years, I 
 
   ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
   ![MariaDB](https://img.shields.io/badge/MariaDB-lightgrey?labelColor=003545&logo=MariaDB&style=for-the-badge&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ### 📄 Pro:
 
   ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
