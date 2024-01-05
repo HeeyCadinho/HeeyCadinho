@@ -7,7 +7,6 @@ My name is Igor, I'm 15 years old and I've been a developer for over 2 years, I 
 
 ### 📋 Programming Languages:
    ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
-   ![Bukkit](https://pluginbadges.glitch.me/api/v1/dl/Bukkit-limegreen.svg?spigot=skychanger.37524&bukkit=skychanger&ore=skychanger&github=dscalzi/SkyChanger&style=for-the-badge)
 
 ### 📄 IDEs/Editors:
 
